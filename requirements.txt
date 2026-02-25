@@ -1,0 +1,9 @@
+streamlit==1.32.0
+deepface==0.0.93
+opencv-python==4.9.0.80
+numpy==1.26.4
+pillow==10.2.0
+tensorflow==2.15.0
+keras==2.15.0
+mtcnn==0.1.1
+retina-face==0.0.13
